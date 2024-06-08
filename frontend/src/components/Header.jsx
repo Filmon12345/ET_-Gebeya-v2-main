@@ -37,7 +37,7 @@ const Header = () => {
         <Container>
           <LinkContainer to='/'>
             <Navbar.Brand>
-              <img src={logo} style={{width:"30px",marginRight:"5px"}} alt='ProShop' />
+              <img src={logo} style={{width:"30px",marginRight:"5px",borderRadius:20}} alt='Ethiopia' />
               ET Gebeya
             </Navbar.Brand>
           </LinkContainer>
