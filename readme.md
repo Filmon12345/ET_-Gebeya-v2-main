@@ -3,9 +3,6 @@
 > eCommerce platform built with the MERN stack & Redux.
 
 
-This project is part of my [MERN Stack From Scratch | eCommerce Platform](https://www.traversymedia.com/mern-stack-from-scratch) course. It is a full-featured shopping cart with PayPal & credit/debit payments.
-
-This is version 2.0 of the app, which uses Redux Toolkit. The first version can be found [here](https://proshopdemo.dev)
 
 <!-- toc -->
 
@@ -117,14 +114,14 @@ npm run data:destroy
 ```
 Sample User Logins
 
-admin@email.com (Admin)
-123456
+yofinat@email.com (Admin)
+1234
 
-john@email.com (Customer)
-123456
+yosi@email.com (Customer)
+1234
 
-jane@email.com (Customer)
-123456
+nati@email.com (Customer)
+1234
 ```
 
 ---
